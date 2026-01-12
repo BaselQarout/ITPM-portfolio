@@ -944,7 +944,6 @@ code {
 
 .simple-table {
   width: 100%;
-  min-width: 900px;
   border-collapse: collapse;
   border: 1px solid var(--bg-black-50);
   border-radius: 12px;
@@ -970,9 +969,7 @@ code {
   color: var(--skin-color);
   font-weight: 700;
 }
-.portfolio .container .row .website {
-  min-width: 900px;
-}
+
 .link-list {
   margin-top: 10px;
 }
